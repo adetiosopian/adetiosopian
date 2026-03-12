@@ -12,5 +12,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30"/>
 
 </div><br>
-<img src="https://github-readme-stats.vercel.app/api?username=adetiosopian&show_icons=true&theme=radical" width="50%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adetiosopian&layout=compact&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adetiosopian&show_icons=true&theme=radical" width="30"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adetiosopian&layout=compact&theme=radical" width="30"/>
