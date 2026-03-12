@@ -18,3 +18,4 @@
 </div> <br>
 <img src="https://raw.githubusercontent.com/adetiosopian/REPO/main/snake.gif" width="100%/>
 ![GitHub Snake animation](https://raw.githubusercontent.com/USERNAME/REPO/main/snake.gif)
+<img src="https://raw.githubusercontent.com/adetiosopian/REPO/main/snake.gif" width="100%" />
