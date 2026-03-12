@@ -16,6 +16,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=adetiosopian&show_icons=true&theme=radical" width="300"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adetiosopian&layout=compact&theme=radical" width="300"/>
 </div> <br>
-<img src="https://raw.githubusercontent.com/adetiosopian/REPO/main/snake.gif" width="100%/>
-![GitHub Snake animation](https://raw.githubusercontent.com/USERNAME/REPO/main/snake.gif)
+
+![GitHub Snake animation](https://raw.githubusercontent.com/adetiosopian/REPO/main/snake.gif)
 <img src="https://raw.githubusercontent.com/adetiosopian/REPO/main/snake.gif" width="100%" />
