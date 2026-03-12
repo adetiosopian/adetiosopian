@@ -12,7 +12,7 @@
 </div>
 <br>
 
-<div style="display: flex; gap:20px; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=adetiosopian&show_icons=true&theme=radical" width="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adetiosopian&layout=compact&theme=radical" width="200"/>
+<div style="display: grid; gap:20px; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=adetiosopian&show_icons=true&theme=radical" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adetiosopian&layout=compact&theme=radical" width="300"/>
 </div>
